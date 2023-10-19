@@ -1,12 +1,16 @@
 ![logo](https://github.com/ViniciusMendesp/DT-Money/assets/63562960/e07cbc4a-e369-4970-a530-508a44693e0f)
 
-**DT Money** é uma aplicação de controle financeiro desenvolvida durante o Ignite da Rocketseat. Com esta ferramenta, é possível manter um registro de transações financeiras, visualizando entradas, saídas e o saldo total.
+**DT Money** é uma aplicação de controle financeiro desenvolvida durante o Ignite da Rocketseat.
+Com esta ferramenta, é possível manter um registro de transações financeiras, visualizando entradas, saídas e o saldo total.
 
 ## 🚀 Tecnologias Utilizadas
 
 - React
+- Typescript
 - Vite
 - Styled Components
+- Axios
+- Json Server
 
 ## 💻 Como Baixar e Executar
 
@@ -14,7 +18,7 @@
 
 ```bash
 git clone https://github.com/ViniciusMendesp/DT-Money.git
-````
+```
 
 ```bash
 cd nome-da-pasta-do-seu-projeto
@@ -46,8 +50,8 @@ Ou com Yarn:
 yarn dev
 ```
 
-Figma: 
+Figma:
+
 ```bash
 https://www.figma.com/community/file/1138814493269096792/DT-Money
 ```
-
