@@ -10,6 +10,10 @@ export const SummaryContainer = styled.section`
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
 
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+
   margin-top: -5rem;
 `;
 
