@@ -55,3 +55,4 @@ Figma:
 ```bash
 https://www.figma.com/community/file/1138814493269096792/DT-Money
 ```
+![image](https://github.com/ViniciusMendesp/DT-Money/assets/63562960/195a971e-bc58-4f57-9c63-e3db1430d4f7)
